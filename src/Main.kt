@@ -1,4 +1,4 @@
-/*
+
 fun main(){
 
     println("Enter first number :")
@@ -24,9 +24,8 @@ fun main(){
     }
 }
 
- */
 
-/*
+
 fun main(){
    println("Enter Number : ")
     val number = readln().toInt()
@@ -37,9 +36,9 @@ fun main(){
 
 }
 
- */
 
-/*
+
+
 fun main(){
     println("Enter number")
     var num = readln().toInt()
@@ -49,9 +48,9 @@ fun main(){
     }
 }
 
- */
 
-/*
+
+
 fun main(){
 
     var sum = 0
@@ -63,8 +62,8 @@ fun main(){
     println(sum)
 }
 
- */
-/*fun main(){
+
+fun main(){
     var sum = 1
 
     for (i in 3..8){
@@ -75,5 +74,5 @@ fun main(){
     println(sum)
 }
 
- */
+
 
